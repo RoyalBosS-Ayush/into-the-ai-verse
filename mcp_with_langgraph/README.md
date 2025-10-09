@@ -49,4 +49,12 @@ python main.py
 
 ---
 
-✅ You’re now ready to use MCP with **Langraph** (workflow orchestration) and **Langsmith** (debugging & tracing).
+## Output
+
+### LangSmith Dashboard
+
+![LangSmith Dashboard](./assets/langsmith_dashboard.png)
+
+### LangSmith Debugging
+
+![LangSmith Debugging](./assets/langsmith_debugging.png)
